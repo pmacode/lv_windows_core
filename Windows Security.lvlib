@@ -10,12 +10,12 @@
 
 </Property>
 	<Item Name="Validate Credentials" Type="Folder">
-		<Item Name="Validate Credentials Domain.vi" Type="VI" URL="../Validate Credentials Domain.vi"/>
-		<Item Name="Validate Credentials Local Machine.vi" Type="VI" URL="../Validate Credentials Local Machine.vi"/>
-		<Item Name="Validate Credentials Remote Machine.vi" Type="VI" URL="../Validate Credentials Remote Machine.vi"/>
+		<Item Name="Validate Credentials Domain.vi" Type="VI" URL="../Windows Security/Validate Credentials Domain.vi"/>
+		<Item Name="Validate Credentials Local Machine.vi" Type="VI" URL="../Windows Security/Validate Credentials Local Machine.vi"/>
+		<Item Name="Validate Credentials Remote Machine.vi" Type="VI" URL="../Windows Security/Validate Credentials Remote Machine.vi"/>
 	</Item>
-	<Item Name="Validate Credentials.vi" Type="VI" URL="../Validate Credentials.vi"/>
-	<Item Name="Get Current User.vi" Type="VI" URL="../Get Current User.vi"/>
-	<Item Name="Get Current Users Groups.vi" Type="VI" URL="../Get Current Users Groups.vi"/>
-	<Item Name="Get Users Groups.vi" Type="VI" URL="../Get Users Groups.vi"/>
+	<Item Name="Validate Credentials.vi" Type="VI" URL="../Windows Security/Validate Credentials.vi"/>
+	<Item Name="Get Current User.vi" Type="VI" URL="../Windows Security/Get Current User.vi"/>
+	<Item Name="Get Current Users Groups.vi" Type="VI" URL="../Windows Security/Get Current Users Groups.vi"/>
+	<Item Name="Get Users Groups.vi" Type="VI" URL="../Windows Security/Get Users Groups.vi"/>
 </Library>
