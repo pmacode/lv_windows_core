@@ -5,7 +5,12 @@ The VIs are saved for version 17.0 (using a current LabVIEW version to save for 
 
 ## Libraries
 
+- Windows Networking
 - Windows Security
+
+### Windows Networking
+
+- ping
 
 ### Windows Security
 Library providing access to Windows security functions for account management.
